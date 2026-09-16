@@ -1,19 +1,25 @@
 [
   {
-    "artist": "Giovanni Fattori",
-    "title": "La torre rossa, circa 1866",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Fattori_torre-rossa-1-1200x548.jpg/500px-Fattori_torre-rossa-1-1200x548.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "source": "https://commons.wikimedia.org/wiki/File:Fattori_torre-rossa-1-1200x548.jpg",
-    "file": "backgrounds/01-red-tower.png",
-    "prompt": "docs/prompts/01-red-tower.txt",
-    "status": "pending_native_4k_generation",
+    "artist": "Arnold Böcklin",
+    "title": "Isle of the Dead, 1883",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Arnold_Boecklin_-_Island_of_the_Dead%2C_Third_Version.JPG/1280px-Arnold_Boecklin_-_Island_of_the_Dead%2C_Third_Version.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Arnold_Boecklin_-_Island_of_the_Dead,_Third_Version.JPG",
+    "file": "backgrounds/01-isle-of-the-dead.png",
+    "prompt": "docs/prompts/01-isle-of-the-dead.txt",
+    "status": "generated_and_visually_reviewed",
     "generation": {
       "model": "gpt-image-2",
       "quality": "high",
       "size": "3840x2160",
       "format": "png",
-      "status": "blocked_api_credit_balance_exhausted"
-    }
+      "status": "complete",
+      "upscaled": false
+    },
+    "width": 3840,
+    "height": 2160,
+    "bytes": 8338350,
+    "sha256": "924cb549ffb4e9aedcf4812ca9f1aab6b6c66ebde46870479b40dd5f51af3f46",
+    "preview": "docs/previews/01-isle-of-the-dead.jpg"
   },
   {
     "artist": "Caspar David Friedrich",
@@ -22,14 +28,20 @@
     "source": "https://en.wikipedia.org/wiki/Wanderer_Above_the_Sea_of_Fog",
     "file": "backgrounds/02-wanderer.png",
     "prompt": "docs/prompts/02-wanderer.txt",
-    "status": "pending_native_4k_generation",
+    "status": "generated_and_visually_reviewed",
     "generation": {
       "model": "gpt-image-2",
       "quality": "high",
       "size": "3840x2160",
       "format": "png",
-      "status": "blocked_api_credit_balance_exhausted"
-    }
+      "status": "complete",
+      "upscaled": false
+    },
+    "width": 3840,
+    "height": 2160,
+    "bytes": 9105184,
+    "sha256": "b1a7b9d27a23e00796f6e692ca6770555846ab0b3bd388e14fa30535fb462585",
+    "preview": "docs/previews/02-wanderer.jpg"
   },
   {
     "artist": "Telemaco Signorini",
@@ -38,14 +50,20 @@
     "source": "https://commons.wikimedia.org/wiki/File:View_of_the_village_of_Riomaggiore_(1892-94),_by_Telemaco_Signorini.jpg",
     "file": "backgrounds/03-riomaggiore.png",
     "prompt": "docs/prompts/03-riomaggiore.txt",
-    "status": "pending_native_4k_generation",
+    "status": "generated_and_visually_reviewed",
     "generation": {
       "model": "gpt-image-2",
       "quality": "high",
       "size": "3840x2160",
       "format": "png",
-      "status": "blocked_api_credit_balance_exhausted"
-    }
+      "status": "complete",
+      "upscaled": false
+    },
+    "width": 3840,
+    "height": 2160,
+    "bytes": 9886598,
+    "sha256": "5344887fd649cd47f7068bf129b3a9921a5ebef86801b23aa7c041fba73f06d5",
+    "preview": "docs/previews/03-riomaggiore.jpg"
   },
   {
     "artist": "Pierre-Auguste Renoir",
@@ -54,14 +72,20 @@
     "source": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_View_at_Guernsey_-_1955.601_-_Clark_Art_Institute.tiff",
     "file": "backgrounds/04-guernsey.png",
     "prompt": "docs/prompts/04-guernsey.txt",
-    "status": "pending_native_4k_generation",
+    "status": "generated_and_visually_reviewed",
     "generation": {
       "model": "gpt-image-2",
       "quality": "high",
       "size": "3840x2160",
       "format": "png",
-      "status": "blocked_api_credit_balance_exhausted"
-    }
+      "status": "complete",
+      "upscaled": false
+    },
+    "width": 3840,
+    "height": 2160,
+    "bytes": 8776041,
+    "sha256": "bd0886759dcaf67708e434a1544211e987d1bb0eb6f2fd37c01efd83cbcb6b0a",
+    "preview": "docs/previews/04-guernsey.jpg"
   },
   {
     "artist": "Turner",
@@ -70,14 +94,20 @@
     "source": "https://en.wikipedia.org/wiki/Rain%2C_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway",
     "file": "backgrounds/05-rain-steam-speed.png",
     "prompt": "docs/prompts/05-rain-steam-speed.txt",
-    "status": "pending_native_4k_generation",
+    "status": "generated_and_visually_reviewed",
     "generation": {
       "model": "gpt-image-2",
       "quality": "high",
       "size": "3840x2160",
       "format": "png",
-      "status": "blocked_api_credit_balance_exhausted"
-    }
+      "status": "complete",
+      "upscaled": false
+    },
+    "width": 3840,
+    "height": 2160,
+    "bytes": 8595450,
+    "sha256": "2f9502062ce2425c042c65aa4af0dc19bad7284e2c360cd2018ebc8d8c63d68c",
+    "preview": "docs/previews/05-rain-steam-speed.jpg"
   },
   {
     "artist": "Constable",
@@ -86,14 +116,20 @@
     "source": "https://en.wikipedia.org/wiki/The_Hay_Wain",
     "file": "backgrounds/06-hay-wain.png",
     "prompt": "docs/prompts/06-hay-wain.txt",
-    "status": "pending_native_4k_generation",
+    "status": "generated_and_visually_reviewed",
     "generation": {
       "model": "gpt-image-2",
       "quality": "high",
       "size": "3840x2160",
       "format": "png",
-      "status": "blocked_api_credit_balance_exhausted"
-    }
+      "status": "complete",
+      "upscaled": false
+    },
+    "width": 3840,
+    "height": 2160,
+    "bytes": 9128441,
+    "sha256": "2184a08db83d660ea4617df82229eaa56319b8e1a056d112774fa8a680f1f300",
+    "preview": "docs/previews/06-hay-wain.jpg"
   },
   {
     "artist": "Friedrich",
@@ -102,14 +138,20 @@
     "source": "https://en.wikipedia.org/wiki/The_Monk_by_the_Sea",
     "file": "backgrounds/07-monk-by-the-sea.png",
     "prompt": "docs/prompts/07-monk-by-the-sea.txt",
-    "status": "pending_native_4k_generation",
+    "status": "generated_and_visually_reviewed",
     "generation": {
       "model": "gpt-image-2",
       "quality": "high",
       "size": "3840x2160",
       "format": "png",
-      "status": "blocked_api_credit_balance_exhausted"
-    }
+      "status": "complete",
+      "upscaled": false
+    },
+    "width": 3840,
+    "height": 2160,
+    "bytes": 7471021,
+    "sha256": "9b340f8afdb49b8f50f77caae53db8be03d41e2e9ea72d163c452becfe6dcad5",
+    "preview": "docs/previews/07-monk-by-the-sea.jpg"
   },
   {
     "artist": "Monet",
@@ -118,14 +160,20 @@
     "source": "https://en.wikipedia.org/wiki/Impression%2C_Sunrise",
     "file": "backgrounds/08-impression-sunrise.png",
     "prompt": "docs/prompts/08-impression-sunrise.txt",
-    "status": "pending_native_4k_generation",
+    "status": "generated_and_visually_reviewed",
     "generation": {
       "model": "gpt-image-2",
       "quality": "high",
       "size": "3840x2160",
       "format": "png",
-      "status": "blocked_api_credit_balance_exhausted"
-    }
+      "status": "complete",
+      "upscaled": false
+    },
+    "width": 3840,
+    "height": 2160,
+    "bytes": 7469270,
+    "sha256": "448a917d29b5440d912c9afec98ee64b1acd7885b05f252286879dd0a435b1fc",
+    "preview": "docs/previews/08-impression-sunrise.jpg"
   },
   {
     "artist": "Camille Pissarro",
@@ -134,14 +182,20 @@
     "source": "https://commons.wikimedia.org/wiki/File:Camille_Pissarro,_The_Boulevard_Montmartre_at_Night,_1897.jpg",
     "file": "backgrounds/09-boulevard-at-night.png",
     "prompt": "docs/prompts/09-boulevard-at-night.txt",
-    "status": "pending_native_4k_generation",
+    "status": "generated_and_visually_reviewed",
     "generation": {
       "model": "gpt-image-2",
       "quality": "high",
       "size": "3840x2160",
       "format": "png",
-      "status": "blocked_api_credit_balance_exhausted"
-    }
+      "status": "complete",
+      "upscaled": false
+    },
+    "width": 3840,
+    "height": 2160,
+    "bytes": 11391053,
+    "sha256": "bbf2aab3000701b388701dabe6eae137812db45e378fe28699ba4932932e0b40",
+    "preview": "docs/previews/09-boulevard-at-night.jpg"
   },
   {
     "artist": "Van Gogh",
@@ -150,14 +204,20 @@
     "source": "https://en.wikipedia.org/wiki/The_Starry_Night",
     "file": "backgrounds/10-starry-night.png",
     "prompt": "docs/prompts/10-starry-night.txt",
-    "status": "pending_native_4k_generation",
+    "status": "generated_and_visually_reviewed",
     "generation": {
       "model": "gpt-image-2",
       "quality": "high",
       "size": "3840x2160",
       "format": "png",
-      "status": "blocked_api_credit_balance_exhausted"
-    }
+      "status": "complete",
+      "upscaled": false
+    },
+    "width": 3840,
+    "height": 2160,
+    "bytes": 8918254,
+    "sha256": "d7096388de6836b793047e1b45763629b2426d823cef50ba6d0d10e0fc997aa3",
+    "preview": "docs/previews/10-starry-night.jpg"
   },
   {
     "artist": "Church",
@@ -166,14 +226,20 @@
     "source": "https://en.wikipedia.org/wiki/The_Heart_of_the_Andes",
     "file": "backgrounds/11-heart-of-the-andes.png",
     "prompt": "docs/prompts/11-heart-of-the-andes.txt",
-    "status": "pending_native_4k_generation",
+    "status": "generated_and_visually_reviewed",
     "generation": {
       "model": "gpt-image-2",
       "quality": "high",
       "size": "3840x2160",
       "format": "png",
-      "status": "blocked_api_credit_balance_exhausted"
-    }
+      "status": "complete",
+      "upscaled": false
+    },
+    "width": 3840,
+    "height": 2160,
+    "bytes": 11283000,
+    "sha256": "dd6f944912f417505ea6a91593aa84009c061176b8ef946ffcec97b04fe12ca5",
+    "preview": "docs/previews/11-heart-of-the-andes.jpg"
   },
   {
     "artist": "Bierstadt",
@@ -182,13 +248,19 @@
     "source": "https://en.wikipedia.org/wiki/The_Rocky_Mountains%2C_Lander's_Peak",
     "file": "backgrounds/12-landers-peak.png",
     "prompt": "docs/prompts/12-landers-peak.txt",
-    "status": "pending_native_4k_generation",
+    "status": "generated_and_visually_reviewed",
     "generation": {
       "model": "gpt-image-2",
       "quality": "high",
       "size": "3840x2160",
       "format": "png",
-      "status": "blocked_api_credit_balance_exhausted"
-    }
+      "status": "complete",
+      "upscaled": false
+    },
+    "width": 3840,
+    "height": 2160,
+    "bytes": 9935905,
+    "sha256": "c4f9f7e6de2570d47a21712c7d09d145ff7ad51db4d03188e68bb7bfb1b78ae7",
+    "preview": "docs/previews/12-landers-peak.jpg"
   }
 ]

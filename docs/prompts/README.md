@@ -2,7 +2,7 @@
 
 Approved workflow: OpenAI Image API, `gpt-image-2`, `high`, PNG, native `3840x2160`.
 
-The first native API request returned HTTP 429 `credit_balance_exhausted`. No accepted 4K wallpaper has been produced. The two earlier integrated-tool trials were 1672 × 941 and are excluded.
+All twelve accepted wallpapers were generated using the API at native 3840 × 2160, checked visually and copied unchanged into the repository. Two earlier 1672 × 941 integrated-tool experiments are excluded. Checksums and actual dimensions are recorded in the manifest.
 
 Each text file records the exact prompt. The original paintings and source URLs are listed in `../backgrounds.json`. Input 1 is the corresponding original painting; input 2 is the detail/style reference [Outpost alpine](https://github.com/simoz/omarchy-outpost-theme/blob/main/backgrounds/09-alpine.png).
 
