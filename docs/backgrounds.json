@@ -1,0 +1,194 @@
+[
+  {
+    "artist": "Giovanni Fattori",
+    "title": "La torre rossa, circa 1866",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Fattori_torre-rossa-1-1200x548.jpg/500px-Fattori_torre-rossa-1-1200x548.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Fattori_torre-rossa-1-1200x548.jpg",
+    "file": "backgrounds/01-red-tower.png",
+    "prompt": "docs/prompts/01-red-tower.txt",
+    "status": "pending_native_4k_generation",
+    "generation": {
+      "model": "gpt-image-2",
+      "quality": "high",
+      "size": "3840x2160",
+      "format": "png",
+      "status": "blocked_api_credit_balance_exhausted"
+    }
+  },
+  {
+    "artist": "Caspar David Friedrich",
+    "title": "Wanderer Above the Sea of Fog",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg/330px-Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Wanderer_Above_the_Sea_of_Fog",
+    "file": "backgrounds/02-wanderer.png",
+    "prompt": "docs/prompts/02-wanderer.txt",
+    "status": "pending_native_4k_generation",
+    "generation": {
+      "model": "gpt-image-2",
+      "quality": "high",
+      "size": "3840x2160",
+      "format": "png",
+      "status": "blocked_api_credit_balance_exhausted"
+    }
+  },
+  {
+    "artist": "Telemaco Signorini",
+    "title": "Riomaggiore",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/View_of_the_village_of_Riomaggiore_%281892-94%29%2C_by_Telemaco_Signorini.jpg/500px-View_of_the_village_of_Riomaggiore_%281892-94%29%2C_by_Telemaco_Signorini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_the_village_of_Riomaggiore_(1892-94),_by_Telemaco_Signorini.jpg",
+    "file": "backgrounds/03-riomaggiore.png",
+    "prompt": "docs/prompts/03-riomaggiore.txt",
+    "status": "pending_native_4k_generation",
+    "generation": {
+      "model": "gpt-image-2",
+      "quality": "high",
+      "size": "3840x2160",
+      "format": "png",
+      "status": "blocked_api_credit_balance_exhausted"
+    }
+  },
+  {
+    "artist": "Pierre-Auguste Renoir",
+    "title": "Veduta di Guernsey, 1883",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Pierre-Auguste_Renoir_-_View_at_Guernsey_-_1955.601_-_Clark_Art_Institute.tiff/lossy-page1-500px-Pierre-Auguste_Renoir_-_View_at_Guernsey_-_1955.601_-_Clark_Art_Institute.tiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_View_at_Guernsey_-_1955.601_-_Clark_Art_Institute.tiff",
+    "file": "backgrounds/04-guernsey.png",
+    "prompt": "docs/prompts/04-guernsey.txt",
+    "status": "pending_native_4k_generation",
+    "generation": {
+      "model": "gpt-image-2",
+      "quality": "high",
+      "size": "3840x2160",
+      "format": "png",
+      "status": "blocked_api_credit_balance_exhausted"
+    }
+  },
+  {
+    "artist": "Turner",
+    "title": "Rain, Steam and Speed",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg/330px-Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Rain%2C_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway",
+    "file": "backgrounds/05-rain-steam-speed.png",
+    "prompt": "docs/prompts/05-rain-steam-speed.txt",
+    "status": "pending_native_4k_generation",
+    "generation": {
+      "model": "gpt-image-2",
+      "quality": "high",
+      "size": "3840x2160",
+      "format": "png",
+      "status": "blocked_api_credit_balance_exhausted"
+    }
+  },
+  {
+    "artist": "Constable",
+    "title": "The Hay Wain",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/John_Constable_-_The_Hay_Wain_%281821%29.jpg/330px-John_Constable_-_The_Hay_Wain_%281821%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/The_Hay_Wain",
+    "file": "backgrounds/06-hay-wain.png",
+    "prompt": "docs/prompts/06-hay-wain.txt",
+    "status": "pending_native_4k_generation",
+    "generation": {
+      "model": "gpt-image-2",
+      "quality": "high",
+      "size": "3840x2160",
+      "format": "png",
+      "status": "blocked_api_credit_balance_exhausted"
+    }
+  },
+  {
+    "artist": "Friedrich",
+    "title": "The Monk by the Sea",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Caspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg/330px-Caspar_David_Friedrich_-_Der_M%C3%B6nch_am_Meer_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/The_Monk_by_the_Sea",
+    "file": "backgrounds/07-monk-by-the-sea.png",
+    "prompt": "docs/prompts/07-monk-by-the-sea.txt",
+    "status": "pending_native_4k_generation",
+    "generation": {
+      "model": "gpt-image-2",
+      "quality": "high",
+      "size": "3840x2160",
+      "format": "png",
+      "status": "blocked_api_credit_balance_exhausted"
+    }
+  },
+  {
+    "artist": "Monet",
+    "title": "Impression, Sunrise",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/330px-Monet_-_Impression%2C_Sunrise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/Impression%2C_Sunrise",
+    "file": "backgrounds/08-impression-sunrise.png",
+    "prompt": "docs/prompts/08-impression-sunrise.txt",
+    "status": "pending_native_4k_generation",
+    "generation": {
+      "model": "gpt-image-2",
+      "quality": "high",
+      "size": "3840x2160",
+      "format": "png",
+      "status": "blocked_api_credit_balance_exhausted"
+    }
+  },
+  {
+    "artist": "Camille Pissarro",
+    "title": "Boulevard Montmartre at Night",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Camille_Pissarro%2C_The_Boulevard_Montmartre_at_Night%2C_1897.jpg/500px-Camille_Pissarro%2C_The_Boulevard_Montmartre_at_Night%2C_1897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "source": "https://commons.wikimedia.org/wiki/File:Camille_Pissarro,_The_Boulevard_Montmartre_at_Night,_1897.jpg",
+    "file": "backgrounds/09-boulevard-at-night.png",
+    "prompt": "docs/prompts/09-boulevard-at-night.txt",
+    "status": "pending_native_4k_generation",
+    "generation": {
+      "model": "gpt-image-2",
+      "quality": "high",
+      "size": "3840x2160",
+      "format": "png",
+      "status": "blocked_api_credit_balance_exhausted"
+    }
+  },
+  {
+    "artist": "Van Gogh",
+    "title": "The Starry Night",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/330px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/The_Starry_Night",
+    "file": "backgrounds/10-starry-night.png",
+    "prompt": "docs/prompts/10-starry-night.txt",
+    "status": "pending_native_4k_generation",
+    "generation": {
+      "model": "gpt-image-2",
+      "quality": "high",
+      "size": "3840x2160",
+      "format": "png",
+      "status": "blocked_api_credit_balance_exhausted"
+    }
+  },
+  {
+    "artist": "Church",
+    "title": "The Heart of the Andes",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Church_Heart_of_the_Andes.jpg/330px-Church_Heart_of_the_Andes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/The_Heart_of_the_Andes",
+    "file": "backgrounds/11-heart-of-the-andes.png",
+    "prompt": "docs/prompts/11-heart-of-the-andes.txt",
+    "status": "pending_native_4k_generation",
+    "generation": {
+      "model": "gpt-image-2",
+      "quality": "high",
+      "size": "3840x2160",
+      "format": "png",
+      "status": "blocked_api_credit_balance_exhausted"
+    }
+  },
+  {
+    "artist": "Bierstadt",
+    "title": "The Rocky Mountains, Lander’s Peak",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Albert_Bierstadt_-_The_Rocky_Mountains%2C_Lander%27s_Peak.jpg/330px-Albert_Bierstadt_-_The_Rocky_Mountains%2C_Lander%27s_Peak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "source": "https://en.wikipedia.org/wiki/The_Rocky_Mountains%2C_Lander's_Peak",
+    "file": "backgrounds/12-landers-peak.png",
+    "prompt": "docs/prompts/12-landers-peak.txt",
+    "status": "pending_native_4k_generation",
+    "generation": {
+      "model": "gpt-image-2",
+      "quality": "high",
+      "size": "3840x2160",
+      "format": "png",
+      "status": "blocked_api_credit_balance_exhausted"
+    }
+  }
+]

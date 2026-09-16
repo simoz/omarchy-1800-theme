@@ -1,0 +1,128 @@
+# 1800 — opaque shell surfaces keep text independent of wallpaper.
+[bar]
+background = "#2D3631"
+background-alpha = 1.0
+text = "#F0E7D4"
+active = "#E59B89"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "#D8B078"
+active-border-foreground = "#F0E7D4"
+
+[controls]
+normal-color = "#F0E7D4"
+normal-fill-alpha = 0.04
+normal-border = "#F0E7D4"
+normal-border-width = 1
+normal-border-alpha = 0.4
+hover-cursor-color = "#F0E7D4"
+hover-cursor-fill-alpha = 0.08
+hover-cursor-border = "#F0E7D4"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.25
+focus-color = "#F0E7D4"
+focus-fill-alpha = 0.08
+focus-border = "#D8B078"
+focus-border-width = 1
+focus-border-alpha = 1.0
+selected-color = "#F0E7D4"
+selected-fill-alpha = 0.08
+selected-border = "#F0E7D4"
+selected-border-width = 0
+selected-border-alpha = 1.0
+pressed-fill-alpha = 0.10
+selection-fill-alpha = 0.10
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+
+[font]
+base-size = 12
+
+[popups]
+background = "#2D3631"
+background-alpha = 1.0
+text = "#F0E7D4"
+border = "#D8B078"
+border-alpha = 1.0
+
+[tooltip]
+background = "#2D3631"
+background-alpha = 1.0
+text = "#F0E7D4"
+border = "#D8B078"
+border-alpha = 1.0
+
+[notifications]
+background = "#2D3631"
+background-alpha = 1.0
+text = "#F0E7D4"
+border = "#D8B078"
+border-alpha = 1.0
+countdown = "#D8B078"
+
+[launcher]
+background = "#2D3631"
+background-alpha = 1.0
+text = "#F0E7D4"
+border = "#D8B078"
+border-alpha = 1.0
+scrim = "#202725"
+scrim-alpha = 0.5
+selected-background = "#46554D"
+selected-background-alpha = 1.0
+selected-text = "#F0E7D4"
+selected-border = "#D8B078"
+selected-border-alpha = 1.0
+
+[menu]
+background = "#2D3631"
+background-alpha = 1.0
+text = "#F0E7D4"
+border = "#D8B078"
+border-alpha = 1.0
+scrim = "#202725"
+scrim-alpha = 0.5
+selected-background = "#46554D"
+selected-background-alpha = 1.0
+selected-text = "#F0E7D4"
+selected-border = "#D8B078"
+selected-border-alpha = 1.0
+
+[polkit]
+background = "#2D3631"
+background-alpha = 1.0
+text = "#F0E7D4"
+text-error = "#E59B89"
+border = "#D8B078"
+border-error = "#E59B89"
+border-alpha = 1.0
+scrim = "#202725"
+scrim-alpha = 0.5
+accent = "#D8B078"
+
+[lock]
+background = "#2D3631"
+background-alpha = 1.0
+text = "#F0E7D4"
+placeholder = "#B5B6A7"
+text-error = "#E59B89"
+border = "#D8B078"
+border-active = "#D8B078"
+border-error = "#E59B89"
+border-alpha = 1.0
+selection = "#46554D"
+selection-alpha = 1.0
+
+[image-picker]
+scrim = "#202725"
+scrim-alpha = 0.5
+text = "#F0E7D4"
+selected-border = "#D8B078"
+selected-border-alpha = 1.0
+unselected-border = "#F0E7D4"
+unselected-border-alpha = 0.28
