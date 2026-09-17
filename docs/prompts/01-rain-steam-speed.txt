@@ -1,0 +1,23 @@
+Title: Rain, Steam and Speed
+Use case: stylized-concept
+Asset: final desktop wallpaper for the Omarchy 1800 theme
+
+SCENE
+A nineteenth-century steam locomotive pulling three warm brown passenger carriages crosses a majestic diagonal stone arched viaduct over a teal river. A small distant castle stands on verdant hills at left; layered wooded banks and a distant viaduct recede into mist. The train is on the right, facing right.
+
+COMPOSITION AND LIGHT
+Panoramic valley view with expansive luminous cream and pale golden sky, blue-grey clouds, warm sunlight and airy atmospheric depth.
+
+SHARED STYLE
+Fine painterly pixel art matching the approved Rain, Steam and Speed series. Deliberate small pixel clusters, crisp silhouettes, articulated architecture, coherent subtle texture, restrained mineral blues, botanical greens, ochre and cream highlights. Romantic atmospheric depth with readable foreground detail and calm areas suitable for a desktop. Preserve each scene's distinct time of day; do not impose golden sunset on nocturnal scenes. People are incidental and integrated into the same texture, never photorealistic or large outlined game sprites.
+
+APPROVED DETAILS AND CONSTRAINTS
+Exactly one organic smoke plume originates at the front locomotive chimney, rises and bends left above the carriages, then thins into irregular translucent wisps. Keep a clear gap above carriage roofs. No vapor source behind the third carriage, no roof chimney or repeated cotton-ball puffs.
+Avoid blur, smeared detail, coarse mosaic, random grain, excessive sharpening, modern objects, text, logos, signatures, borders and UI.
+
+REFERENCE AND 4K RENDERING
+Input 1: output/imagegen/pre-4k/01-rain-steam-speed.png
+This is the approved composition and style reference. Preserve its framing, object positions and proportions, palette, lighting and atmosphere. The scene description above makes the subject explicit; it is not an instruction to redesign the approved image. Re-render the details natively at 3840x2160, edge-to-edge 16:9 PNG. No post-generation resizing or upscaling. Use gpt-image-2, quality high, Image API edit, one reference, no prompt augmentation.
+
+PROVENANCE
+Consolidated regeneration prompt combining the creative scene, accepted corrections and 4K requirements. It was not submitted verbatim for the existing image. Exact prompt used for the current 4K output: output/imagegen/prompt-history/exact-4k-api/01-rain-steam-speed.txt
