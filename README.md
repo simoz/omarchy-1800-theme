@@ -2,6 +2,8 @@
 
 A pixel art theme for Omarchy inspired by nineteenth-century cities, steam travel and harbors in the mist.
 
+[![1800 theme on Omarchy with an editor, terminal, btop, and file manager](docs/screenshots/hero.webp)](docs/screenshots/hero.webp)
+
 ## Backgrounds
 
 Twelve wallpapers, all native 3840 × 2160. Click a preview to open the full-resolution PNG.
@@ -45,6 +47,16 @@ omarchy plymouth preview '#202725' '#F0E7D4' unlock.png preview-unlock.png
 ## Shell
 
 Dark green surfaces, parchment text and brass borders carry through the bar, menus, launcher and dialogs. Selected rows use a muted sage background. Shell surfaces are opaque; personal settings can override them.
+
+## Desktop previews
+
+Click a screenshot to view it at full size. Captured on Omarchy 4.0.3-1.
+
+| Desktop | Terminal |
+| --- | --- |
+| [![1800 desktop with the Rain, Steam and Speed wallpaper](docs/screenshots/desktop.webp)](docs/screenshots/desktop.webp) | [![Terminal with the 1800 color palette](docs/screenshots/terminal.webp)](docs/screenshots/terminal.webp) |
+| **Omarchy menu** | **Lock screen** |
+| [![Omarchy menu with brass borders and dark green surfaces](docs/screenshots/menu.webp)](docs/screenshots/menu.webp) | [![1800 session lock screen with a blurred wallpaper](docs/screenshots/lock.webp)](docs/screenshots/lock.webp) |
 
 ## Palette
 
