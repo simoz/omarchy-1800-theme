@@ -13,5 +13,6 @@ for item in items:
   assert im.format=='PNG',(p.name,im.format)
  assert item['sha256']==hashlib.sha256(p.read_bytes()).hexdigest(),p.name
  assert (root/item['prompt']).exists(),item['prompt']
- assert item['source'].startswith('https://')
-print('12 native-sized PNGs, checksums, source links and prompt files verified.')
+ assert (root/item['reference']).exists(),item['reference']
+assert {item['file'] for item in items}=={str(p.relative_to(root)) for p in (root/'backgrounds').glob('*.png')}
+print('12 native 4K PNGs, checksums, approved references and prompt files verified.')

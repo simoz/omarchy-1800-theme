@@ -1,0 +1,23 @@
+Title: Paris — Boulevard
+Use case: stylized-concept
+Asset: final desktop wallpaper for the Omarchy 1800 theme
+
+SCENE
+Paris circa 1875 after light rain: Haussmann limestone facades, mansard roofs, wrought-iron balconies, gas lamps and trees frame a broad avenue. A few horse-drawn carriages and tiny distant pedestrians occupy wet cobblestones; the Seine and bridges are visible.
+
+COMPOSITION AND LIGHT
+Elevated panoramic city view, expansive cream-gold cloudscape, avenue receding into luminous golden haze, restrained saturation and reflections.
+
+SHARED STYLE
+Fine painterly pixel art matching the approved Rain, Steam and Speed series. Deliberate small pixel clusters, crisp silhouettes, articulated architecture, coherent subtle texture, restrained mineral blues, botanical greens, ochre and cream highlights. Romantic atmospheric depth with readable foreground detail and calm areas suitable for a desktop. Preserve each scene's distinct time of day; do not impose golden sunset on nocturnal scenes. People are incidental and integrated into the same texture, never photorealistic or large outlined game sprites.
+
+APPROVED DETAILS AND CONSTRAINTS
+No Eiffel Tower, modern vehicles, crowds, close-up people or readable signs. Maintain the approved viewpoint and carriage placement.
+Avoid blur, smeared detail, coarse mosaic, random grain, excessive sharpening, modern objects, text, logos, signatures, borders and UI.
+
+REFERENCE AND 4K RENDERING
+Input 1: output/imagegen/pre-4k/04-paris-boulevard.png
+This is the approved composition and style reference. Preserve its framing, object positions and proportions, palette, lighting and atmosphere. The scene description above makes the subject explicit; it is not an instruction to redesign the approved image. Re-render the details natively at 3840x2160, edge-to-edge 16:9 PNG. No post-generation resizing or upscaling. Use gpt-image-2, quality high, Image API edit, one reference, no prompt augmentation.
+
+PROVENANCE
+Consolidated regeneration prompt combining the creative scene, accepted corrections and 4K requirements. It was not submitted verbatim for the existing image. Exact prompt used for the current 4K output: output/imagegen/prompt-history/exact-4k-api/04-paris-boulevard.txt

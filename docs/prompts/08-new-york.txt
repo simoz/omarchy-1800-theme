@@ -1,0 +1,23 @@
+Title: New York — East River
+Use case: stylized-concept
+Asset: final desktop wallpaper for the Omarchy 1800 theme
+
+SCENE
+New York circa 1890: Brooklyn Bridge with two granite Gothic towers and coherent suspension cables spans the East River. An old wooden pier with ropes and bollards in the foreground, one steam tug, sailing schooners and a low nineteenth-century brick skyline.
+
+COMPOSITION AND LIGHT
+Cold dawn, blue-grey mist, pale cloud-filled sky and delicate cream-gold horizon reflected in slate-teal water; spacious romantic industrial landscape.
+
+SHARED STYLE
+Fine painterly pixel art matching the approved Rain, Steam and Speed series. Deliberate small pixel clusters, crisp silhouettes, articulated architecture, coherent subtle texture, restrained mineral blues, botanical greens, ochre and cream highlights. Romantic atmospheric depth with readable foreground detail and calm areas suitable for a desktop. Preserve each scene's distinct time of day; do not impose golden sunset on nocturnal scenes. People are incidental and integrated into the same texture, never photorealistic or large outlined game sprites.
+
+APPROVED DETAILS AND CONSTRAINTS
+No modern skyscrapers or Manhattan Bridge. Smoke only from the tug chimney. Preserve approved framing and the small incidental figures.
+Avoid blur, smeared detail, coarse mosaic, random grain, excessive sharpening, modern objects, text, logos, signatures, borders and UI.
+
+REFERENCE AND 4K RENDERING
+Input 1: output/imagegen/pre-4k/08-new-york.png
+This is the approved composition and style reference. Preserve its framing, object positions and proportions, palette, lighting and atmosphere. The scene description above makes the subject explicit; it is not an instruction to redesign the approved image. Re-render the details natively at 3840x2160, edge-to-edge 16:9 PNG. No post-generation resizing or upscaling. Use gpt-image-2, quality high, Image API edit, one reference, no prompt augmentation.
+
+PROVENANCE
+Consolidated regeneration prompt combining the creative scene, accepted corrections and 4K requirements. It was not submitted verbatim for the existing image. Exact prompt used for the current 4K output: output/imagegen/prompt-history/exact-4k-api/08-new-york.txt
