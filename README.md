@@ -30,6 +30,18 @@ omarchy-theme-install https://github.com/simoz/omarchy-1800-theme
 
 To switch back, select your previous theme from Omarchy's theme menu.
 
+## Unlock
+
+A parchment and brass pixel art monogram brings 1800 to the boot and disk unlock screen. After installing the theme, select **1800** under **Style > Unlock**.
+
+![1800 unlock preview](preview-unlock.png)
+
+The transparent `unlock.png` and `preview-unlock.png` are included. To regenerate the preview on Omarchy:
+
+```sh
+omarchy plymouth preview '#202725' '#F0E7D4' unlock.png preview-unlock.png
+```
+
 ## Shell
 
 Dark green surfaces, parchment text and brass borders carry through the bar, menus, launcher and dialogs. Selected rows use a muted sage background. Shell surfaces are opaque; personal settings can override them.

@@ -1,0 +1,8 @@
+Tool: built-in image_gen
+Asset: output/imagegen/unlock-monogram.png
+Integrated asset: unlock.png (transparent PNG, resized within 600 x 300 pixels).
+Preview: preview-unlock.png (1920 x 1080), rendered using the official Omarchy Plymouth preview composition and bullet/entry/lock assets from the quattro branch. Only asset copying and the imv viewer invocation were adapted for macOS; layout and rendering were unchanged.
+Background: #202725. Text: #F0E7D4.
+Boot behavior still requires verification on an Omarchy machine.
+
+Use case: logo-brand. Create a refined pixel-art typographic monogram for the Omarchy desktop theme named 1800, intended as a centered boot / disk unlock emblem. Exact and ONLY text: "1800". Large beautiful nineteenth-century railway ticket numerals, bold heritage serif, perfectly legible, balanced and elegant. Flat parchment #F0E7D4 numeral faces with very restrained brass #D8B078 detailing. Tiny symmetric antique ticket flourishes and fine horizontal brass rules around the numerals, sparse and tasteful, strong silhouette. Deliberate crisp pixel art, finely stepped edges, not a glossy 3D logo, not photorealistic. Wide compact emblem centered in a 1536x1024 transparent canvas, with generous empty transparent margin. The emblem will be displayed on solid dark green #202725 so use light colors and high contrast. GENUINELY TRANSPARENT background with alpha, no painted green backdrop, no checkerboard pattern, no shadow outside emblem. No locomotive, no clock, no additional words, no mockup, no watermark. Keep decorative elements subordinate to the large readable "1800".
