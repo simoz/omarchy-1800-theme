@@ -18,7 +18,7 @@ Twelve wallpapers, all native 3840 × 2160. Click a preview to open the full-res
 
 ## Inspiration
 
-Steam trains, sailing ships, gas lamps and early motorcars connect cities across Europe, Japan and America. Golden daylight and blue nights share the same painterly pixel art style, inspired by Rain, Steam and Speed.
+Steam trains, sailing ships, gas lamps and early motorcars connect cities across Europe, Japan and America. Golden daylight and blue nights share the same painterly pixel art style, inspired by Rain, Steam and Speed by Joseph Mallord William Turner.
 
 ## Installation
 
@@ -47,13 +47,13 @@ Dark green surfaces, parchment text and brass borders carry through the bar, men
 | Sage selection | `#46554D` |
 | Secondary text | `#B5B6A7` |
 
-`colors.toml` defines the palette and bright terminal colors. `icons.theme` selects `Yaru-wartybrown`.
+`colors.toml` contains the theme palette, including bright terminal variants. `icons.theme` selects `Yaru-wartybrown`.
 
-Text contrast: **12.40:1** on the background, **6.41:1** on selection and **6.07:1** for secondary text on surfaces. All 55 tested pairs pass 4.5:1. [Contrast report](docs/contrast.json).
+Opaque-color contrast: primary text **12.40:1** on the background; primary text **6.41:1** on selection; secondary text **6.07:1** on lighter surfaces. The eight semantic terminal colors exceed **4.5:1** on the main background. Transparency and application customizations may change these results.
 
 ## Compatibility
 
-Uses the Omarchy 4 central palette and `shell.toml`. Live desktop testing is still pending.
+Uses the Omarchy 4 central palette and `shell.toml`.
 
 ## Image credits
 
