@@ -21,7 +21,7 @@ The twelve consolidated regeneration prompts for the current set, numbered in th
 
 `gpt-image-2` · quality `high` · `3840x2160` · PNG · Image API edit · one approved reference · no prompt augmentation · no post-generation upscaling.
 
-Approved references: `output/imagegen/pre-4k/`. Original API outputs: `output/imagegen/native-4k/`. Earlier correction prompts are archived in `output/imagegen/prompt-history/` and are not part of the current set.
+Approved references: `output/imagegen/pre-4k/`. Original API outputs: `output/imagegen/native-4k/`. Earlier correction prompts are archived in `output/imagegen/prompt-history/` and are not part of the current set. These PNG working files are kept by the author and not distributed with the theme, so installs stay small; the prompt files in `output/imagegen/` are included.
 
 Example, from the repository root (set IMAGE_GEN to the bundled imagegen/scripts/image_gen.py):
 

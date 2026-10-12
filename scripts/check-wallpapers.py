@@ -13,6 +13,8 @@ for item in items:
   assert im.format=='WEBP',(p.name,im.format)
  assert item['sha256']==hashlib.sha256(p.read_bytes()).hexdigest(),p.name
  assert (root/item['prompt']).exists(),item['prompt']
- assert (root/item['reference']).exists(),item['reference']
+ # Reference PNGs live in output/, which is not distributed; check them only when present.
+ ref=root/item['reference']
+ if ref.parent.exists(): assert ref.exists(),item['reference']
 assert {item['file'] for item in items}=={str(p.relative_to(root)) for p in (root/'backgrounds').glob('*.webp')}
 print('12 4K WebP wallpapers, checksums, approved references and prompt files verified.')
