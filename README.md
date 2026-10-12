@@ -6,14 +6,14 @@ A pixel art theme for Omarchy inspired by nineteenth-century cities, steam trave
 
 ## Backgrounds
 
-Twelve wallpapers, all native 3840 × 2160. Click a preview to open the full-resolution PNG.
+Twelve wallpapers, all native 3840 × 2160. Click a preview to open the full-resolution WebP.
 
 | | | |
 | --- | --- | --- |
-| [![Rain, Steam and Speed](docs/previews/01-rain-steam-speed.jpg)](backgrounds/01-rain-steam-speed.png)<br>Rain, Steam and Speed | [![London — Thames](docs/previews/02-london-thames.jpg)](backgrounds/02-london-thames.png)<br>London — Thames | [![Venezia](docs/previews/03-venezia.jpg)](backgrounds/03-venezia.png)<br>Venezia |
-| [![Paris — Boulevard](docs/previews/04-paris-boulevard.jpg)](backgrounds/04-paris-boulevard.png)<br>Paris — Boulevard | [![Yokohama](docs/previews/05-yokohama.jpg)](backgrounds/05-yokohama.png)<br>Yokohama | [![Genova](docs/previews/06-genova.jpg)](backgrounds/06-genova.png)<br>Genova |
-| [![Manchester](docs/previews/07-manchester.jpg)](backgrounds/07-manchester.png)<br>Manchester | [![New York — East River](docs/previews/08-new-york.jpg)](backgrounds/08-new-york.png)<br>New York — East River | [![Liverpool](docs/previews/09-liverpool.jpg)](backgrounds/09-liverpool.png)<br>Liverpool |
-| [![Steam Station](docs/previews/10-steam-station.jpg)](backgrounds/10-steam-station.png)<br>Steam Station | [![San Francisco](docs/previews/11-san-francisco.jpg)](backgrounds/11-san-francisco.png)<br>San Francisco | [![Paris — Motorcars](docs/previews/12-paris-motorcars.jpg)](backgrounds/12-paris-motorcars.png)<br>Paris — Motorcars |
+| [![Rain, Steam and Speed](docs/previews/01-rain-steam-speed.jpg)](backgrounds/01-rain-steam-speed.webp)<br>Rain, Steam and Speed | [![London — Thames](docs/previews/02-london-thames.jpg)](backgrounds/02-london-thames.webp)<br>London — Thames | [![Venezia](docs/previews/03-venezia.jpg)](backgrounds/03-venezia.webp)<br>Venezia |
+| [![Paris — Boulevard](docs/previews/04-paris-boulevard.jpg)](backgrounds/04-paris-boulevard.webp)<br>Paris — Boulevard | [![Yokohama](docs/previews/05-yokohama.jpg)](backgrounds/05-yokohama.webp)<br>Yokohama | [![Genova](docs/previews/06-genova.jpg)](backgrounds/06-genova.webp)<br>Genova |
+| [![Manchester](docs/previews/07-manchester.jpg)](backgrounds/07-manchester.webp)<br>Manchester | [![New York — East River](docs/previews/08-new-york.jpg)](backgrounds/08-new-york.webp)<br>New York — East River | [![Liverpool](docs/previews/09-liverpool.jpg)](backgrounds/09-liverpool.webp)<br>Liverpool |
+| [![Steam Station](docs/previews/10-steam-station.jpg)](backgrounds/10-steam-station.webp)<br>Steam Station | [![San Francisco](docs/previews/11-san-francisco.jpg)](backgrounds/11-san-francisco.webp)<br>San Francisco | [![Paris — Motorcars](docs/previews/12-paris-motorcars.jpg)](backgrounds/12-paris-motorcars.webp)<br>Paris — Motorcars |
 
 
 [Scene prompts and generation settings](docs/prompts/README.md) are included.

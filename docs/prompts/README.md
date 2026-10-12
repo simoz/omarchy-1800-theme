@@ -4,18 +4,18 @@ The twelve consolidated regeneration prompts for the current set, numbered in th
 
 | # | Wallpaper | Complete prompt |
 | --- | --- | --- |
-| 01 | [Rain, Steam and Speed](../../backgrounds/01-rain-steam-speed.png) | [01-rain-steam-speed.txt](01-rain-steam-speed.txt) |
-| 02 | [London — Thames](../../backgrounds/02-london-thames.png) | [02-london-thames.txt](02-london-thames.txt) |
-| 03 | [Venezia](../../backgrounds/03-venezia.png) | [03-venezia.txt](03-venezia.txt) |
-| 04 | [Paris — Boulevard](../../backgrounds/04-paris-boulevard.png) | [04-paris-boulevard.txt](04-paris-boulevard.txt) |
-| 05 | [Yokohama](../../backgrounds/05-yokohama.png) | [05-yokohama.txt](05-yokohama.txt) |
-| 06 | [Genova](../../backgrounds/06-genova.png) | [06-genova.txt](06-genova.txt) |
-| 07 | [Manchester](../../backgrounds/07-manchester.png) | [07-manchester.txt](07-manchester.txt) |
-| 08 | [New York — East River](../../backgrounds/08-new-york.png) | [08-new-york.txt](08-new-york.txt) |
-| 09 | [Liverpool](../../backgrounds/09-liverpool.png) | [09-liverpool.txt](09-liverpool.txt) |
-| 10 | [Steam Station](../../backgrounds/10-steam-station.png) | [10-steam-station.txt](10-steam-station.txt) |
-| 11 | [San Francisco](../../backgrounds/11-san-francisco.png) | [11-san-francisco.txt](11-san-francisco.txt) |
-| 12 | [Paris — Motorcars](../../backgrounds/12-paris-motorcars.png) | [12-paris-motorcars.txt](12-paris-motorcars.txt) |
+| 01 | [Rain, Steam and Speed](../../backgrounds/01-rain-steam-speed.webp) | [01-rain-steam-speed.txt](01-rain-steam-speed.txt) |
+| 02 | [London — Thames](../../backgrounds/02-london-thames.webp) | [02-london-thames.txt](02-london-thames.txt) |
+| 03 | [Venezia](../../backgrounds/03-venezia.webp) | [03-venezia.txt](03-venezia.txt) |
+| 04 | [Paris — Boulevard](../../backgrounds/04-paris-boulevard.webp) | [04-paris-boulevard.txt](04-paris-boulevard.txt) |
+| 05 | [Yokohama](../../backgrounds/05-yokohama.webp) | [05-yokohama.txt](05-yokohama.txt) |
+| 06 | [Genova](../../backgrounds/06-genova.webp) | [06-genova.txt](06-genova.txt) |
+| 07 | [Manchester](../../backgrounds/07-manchester.webp) | [07-manchester.txt](07-manchester.txt) |
+| 08 | [New York — East River](../../backgrounds/08-new-york.webp) | [08-new-york.txt](08-new-york.txt) |
+| 09 | [Liverpool](../../backgrounds/09-liverpool.webp) | [09-liverpool.txt](09-liverpool.txt) |
+| 10 | [Steam Station](../../backgrounds/10-steam-station.webp) | [10-steam-station.txt](10-steam-station.txt) |
+| 11 | [San Francisco](../../backgrounds/11-san-francisco.webp) | [11-san-francisco.txt](11-san-francisco.txt) |
+| 12 | [Paris — Motorcars](../../backgrounds/12-paris-motorcars.webp) | [12-paris-motorcars.txt](12-paris-motorcars.txt) |
 
 ## Generation settings
 
